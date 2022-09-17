@@ -3,7 +3,7 @@ y la programación me resulta fascinante, dado que podes hacer muchísimas cosas
 
 - 👀 Me interesan los autos, la seguridad vial (soy perito accidentóloga), la música, cantar, me encantan los desafios y darle una mano a quien lo necesite si está a mi alcance.
 
-- 🌱 Actualmente estoy cursando el M3 de soyhenry.com, y estoy muy entusiasmada con mis progresos!!!.
+- 🌱 Actualmente estoy ejecutando el PI de soyhenry.com, y estoy muy entusiasmada con mis progresos!!!.
 
 
 <!---

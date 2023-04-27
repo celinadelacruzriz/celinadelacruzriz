@@ -1,8 +1,3 @@
-```mermaid
-flowchart LR
-    id1([Searching...])
-
-```
 - 👋 Hola!!, Mi nombre es Celina, y soy muy curiosa desde chica, he aprendido de todo en la vida, desde arreglar autos, hasta plomería, electricidad, etc.
 y la programación me resulta fascinante, dado que podes hacer muchísimas cosas con una computadora. Así que estoy embarcándome en este mundo tan increíble!
 

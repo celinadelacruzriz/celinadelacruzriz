@@ -3,5 +3,8 @@ y la programación me resulta fascinante, dado que podes hacer muchísimas cosas
 
 - 👀 Me interesan los autos, la seguridad vial (soy perito accidentóloga), la música, cantar, me encantan los desafíos y darle una mano a quien lo necesite si está a mi alcance.
 
-Si quiere contactame 📧 celinadelacruzriz@gmail.com | :link www.linkedin.com/in/maria-celina-de-la-cruz-riz | ☎️ +542213164508
+Contacto:
+* 📧 celinadelacruzriz@gmail.com  
+* 🔗 www.linkedin.com/in/maria-celina-de-la-cruz-riz 
+* ☎️ +542213164508
 

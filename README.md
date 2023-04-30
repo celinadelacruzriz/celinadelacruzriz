@@ -28,9 +28,9 @@ ____
 
 #### Algunos de mis proyectos:
 
-| PI Henry Dogs  | PG Henry VideoGames  |
+| PI Henry Dogs  | PG Henry VideoGames  | 
 |---|---|
-| <a href="" target="_blank"> <img src="/images/foods.jpg" width="250" height="200"/></a> |  <a href="https://henrygamestores.vercel.app" target="_blank"><iframe href="https://henrygamestores.vercel.app"> </iframe></a> | 
+| [![Alt text](https://img.youtube.com/vi/TPKwGt10DWU/0.jpg)](https://www.youtube.com/watch?v=TPKwGt10DWU) |  <a href="https://henrygamestores.vercel.app" target="_blank"><iframe href="https://henrygamestores.vercel.app"> </iframe></a> | 
 
 
 

@@ -1,9 +1,9 @@
 ### Mi nombre es María Celina de la Cruz Riz 😊
 #### Desarrollador web junior full-stack 💻 actualmente en **búsqueda activa** de empleo 💻
 
-- 👋 Hola!!, Me gusta que me llamen Celina, y soy muy curiosa desde chica, he aprendido de todo en la vida, desde arreglar autos, hasta plomería, electricidad, etc. y la programación me resulta fascinante, dado que podes hacer muchísimas cosas con una computadora. Así que estoy embarcándome en este mundo tan increíble!
+👋 Hola!!, Me gusta que me llamen Celina, y soy muy curiosa desde chica, he aprendido de todo en la vida, desde arreglar autos, hasta plomería, electricidad, etc. y la programación me resulta fascinante, dado que podes hacer muchísimas cosas con una computadora. Así que estoy embarcándome en este mundo tan increíble!
 
-- 👀 Me interesan los autos, la seguridad vial (soy perito accidentóloga), la música, cantar, me encantan los desafíos y darle una mano a quien lo necesite si está a mi alcance.
+👀 Me interesan los autos, la seguridad vial (soy perito accidentóloga), la música, cantar, me encantan los desafíos y darle una mano a quien lo necesite si está a mi alcance.
 
 #### Actualmente me dedico a:
 
@@ -24,7 +24,8 @@ ___
 <a href="https://www.java.com/es/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="JAVA" width="65" height="65"/> </a>
 <a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="LENGUAJE C" width="65" height="65" /> </a>
 </p>
-____
+
+___
 
 #### Algunos de mis proyectos:
 
@@ -32,15 +33,13 @@ ____
 |---|---|
 | [![Alt text](https://img.youtube.com/vi/TPKwGt10DWU/0.jpg)](https://www.youtube.com/watch?v=TPKwGt10DWU) |  <a href="https://henrygamestores.vercel.app" target="_blank"><iframe href="https://henrygamestores.vercel.app"> </iframe></a> | 
 
-
-
+___
 
 #### ¿Hablamos?☕️
-<ul>
-  <li> 📧 celinadelacruzriz@gmail.com</li>  
-  <li> 🔗 www.linkedin.com/in/maria-celina-de-la-cruz-riz </li>
-  <li> ☎️ +542213164508</li>
-</ul>
+  | 📧 | 🔗 | ☎️ |
+  |---|---|---|
+| celinadelacruzriz@gmail.com |  www.linkedin.com/in/maria-celina-de-la-cruz-riz |  +542213164508</tr>
+
 
 
 

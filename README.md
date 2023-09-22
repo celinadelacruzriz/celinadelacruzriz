@@ -36,9 +36,9 @@ ___
 ___
 
 #### ¿Hablamos?☕️
-  | 📧 | 🔗 | ☎️ |
-  |---|---|---|
-| celinadelacruzriz@gmail.com |  www.linkedin.com/in/maria-celina-de-la-cruz-riz |  +542213164508</tr>
+  | 📧 | 🔗 |
+  |---|---|
+| celinadelacruzriz@gmail.com |  www.linkedin.com/in/maria-celina-de-la-cruz-riz </tr>
 
 
 
